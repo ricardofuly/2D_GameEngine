@@ -1,8 +1,10 @@
 #include "Game.h"
 #include "TextureManager.h"
+#include "GameObject.h"
+#include "TexturesLibrary.h"
 
-SDL_Texture* playerTexture;
-SDL_FRect srcRect, destRect;
+GameObject* player;
+GameObject* enemy;
 
 Game::Game()
 {
@@ -49,7 +51,8 @@ void Game::init(const char* title, int width, int height, bool fullscreen)
 		isRunning = true;
 	}
 	
-	playerTexture = TextureManager::LoadTexture("Textures/npc_elf.png", renderer);
+	player = new GameObject(Entity::player, renderer, 0 ,0);
+	enemy = new GameObject(Entity::enemy, renderer, 50, 0);
 };
 
 void Game::handleEvents()
@@ -70,19 +73,18 @@ void Game::handleEvents()
 
 void Game::update()
 {
-	cnt++;
-
-	destRect.h = 16;
-	destRect.w = 16;
-	destRect.x = cnt;
-
-	std::cout << cnt << std::endl;
+	player->Update();
+	enemy->Update();
 };
 
 void Game::render()
 {
 	SDL_RenderClear(renderer);
-	SDL_RenderTexture(renderer, playerTexture, NULL, &destRect);
+
+	player->Render();
+	enemy->Render();
+
+
 	SDL_RenderPresent(renderer);
 };
 

@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\2D_GameEngine\\",
+  "WorkspaceRootPath": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Dev\\2D_GameEngine\\2D_GameEngine\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\TexturesLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\TexturesLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Dev\\2D_GameEngine\\2D_GameEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Dev\\2D_GameEngine\\2D_GameEngine\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C2B03C5D-835A-492F-B4C4-E044ADAD32B3}|2D_GameEngine\\2D_GameEngine.vcxproj|solutionrelative:2D_GameEngine\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,47 +34,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TextureManager.cpp",
-              "DocumentMoniker": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\TextureManager.cpp",
-              "RelativeDocumentMoniker": "2D_GameEngine\\TextureManager.cpp",
-              "ToolTip": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\TextureManager.cpp",
-              "RelativeToolTip": "2D_GameEngine\\TextureManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-08T03:50:07.505Z",
+              "Title": "TexturesLibrary.h",
+              "DocumentMoniker": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\TexturesLibrary.h",
+              "RelativeDocumentMoniker": "2D_GameEngine\\TexturesLibrary.h",
+              "ToolTip": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\TexturesLibrary.h",
+              "RelativeToolTip": "2D_GameEngine\\TexturesLibrary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T04:58:26.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TextureManager.h",
-              "DocumentMoniker": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\TextureManager.h",
-              "RelativeDocumentMoniker": "2D_GameEngine\\TextureManager.h",
-              "ToolTip": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\TextureManager.h",
-              "RelativeToolTip": "2D_GameEngine\\TextureManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\GameObject.h",
+              "RelativeDocumentMoniker": "2D_GameEngine\\GameObject.h",
+              "ToolTip": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\GameObject.h",
+              "RelativeToolTip": "2D_GameEngine\\GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-08T03:43:04.137Z",
+              "WhenOpened": "2025-05-08T04:11:13.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\GameObject.cpp",
+              "RelativeDocumentMoniker": "2D_GameEngine\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\GameObject.cpp",
+              "RelativeToolTip": "2D_GameEngine\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T04:14:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.h",
+              "DocumentMoniker": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.h",
               "RelativeDocumentMoniker": "2D_GameEngine\\Game.h",
-              "ToolTip": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.h",
+              "ToolTip": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.h",
               "RelativeToolTip": "2D_GameEngine\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-08T01:07:46.441Z",
               "EditorCaption": ""
@@ -79,26 +100,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.cpp",
               "RelativeDocumentMoniker": "2D_GameEngine\\Game.cpp",
-              "ToolTip": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.cpp",
+              "ToolTip": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\Game.cpp",
               "RelativeToolTip": "2D_GameEngine\\Game.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-08T01:07:30.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\main.cpp",
               "RelativeDocumentMoniker": "2D_GameEngine\\main.cpp",
-              "ToolTip": "C:\\Dev\\2D_GameEngine\\2D_GameEngine\\main.cpp",
+              "ToolTip": "C:\\Users\\lrfs_\\OneDrive\\Documentos\\Dev\\2D_GameEngine\\2D_GameEngine\\main.cpp",
               "RelativeToolTip": "2D_GameEngine\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-08T00:59:00.122Z"
+              "WhenOpened": "2025-05-08T00:59:00.122Z",
+              "EditorCaption": ""
             }
           ]
         }
