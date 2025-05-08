@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Dev\2D_GameEngine\2D_GameEngine\Game.cpp(77,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  2D_GameEngine.vcxproj -> C:\Dev\2D_GameEngine\x64\Debug\2D_GameEngine.exe
