@@ -18,13 +18,13 @@ int main(int argc, const char *argv[])
 
 	while (game->running())
 	{
-		frameStart = SDL_GetTicks();
+        frameStart = static_cast<Uint32>(SDL_GetTicks());
 
 		game->handleEvents();
 		game->update();
 		game->render();
 
-		frameTime = SDL_GetTicks() - frameStart;
+        frameTime = static_cast<int>(SDL_GetTicks() - frameStart);
 		if (frameDelay > frameTime)
 		{
 			SDL_Delay(frameDelay - frameTime);
